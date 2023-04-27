@@ -1,0 +1,7 @@
+https://resumecontacts.indeed.com/contacted/interested?rAKey=FUZZ
+https://resumecontacts.indeed.com/api/v1/contacted/decline/reasons?rAKey=FUZZ
+https://resumecontacts.indeed.com/contacted/block?rAKey=FUZZ
+https://resumecontacts.indeed.com/api/v1/contacted/decline?rAKey=FUZZ
+https://resumecontacts.indeed.com/contacted/not-interested?showSurvey=FUZZ
+https://resumecontacts.indeed.com/contacted/not-interested?rAKey=FUZZ
+https://resumecontacts.indeed.com/reminder/unsubscribe?cotk=FUZZ
