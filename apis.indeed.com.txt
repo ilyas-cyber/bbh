@@ -1,0 +1,4 @@
+https://apis.indeed.com/jobseeker/graphql?co=FUZZ
+https://apis.indeed.com/graphql?co=FUZZ
+https://apis.indeed.com/graphql?locale=FUZZ
+https://apis.indeed.com/graphql?country=FUZZ
